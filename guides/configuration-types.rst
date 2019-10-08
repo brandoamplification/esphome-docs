@@ -90,6 +90,7 @@ Available Pin Modes:
 -  ``INPUT``
 -  ``OUTPUT``
 -  ``OUTPUT_OPEN_DRAIN``
+-  ``OPEN_DRAIN``
 -  ``ANALOG`` (only on ESP32)
 -  ``INPUT_PULLUP``
 -  ``INPUT_PULLDOWN`` (only on ESP32)
